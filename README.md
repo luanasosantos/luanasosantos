@@ -1,4 +1,4 @@
-I'm a data-driven Production Engineering student with a passion for problem solving and process optimization 🇧🇷
+I'm a data-driven Production Engineering student with a passion for problem-solving and process optimization.
 
 ### About me
 
