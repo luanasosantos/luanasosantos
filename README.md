@@ -21,10 +21,4 @@ I'm a data-driven Production Engineering student with a passion for problem solv
 
 ---
 
-### 🌐 Links
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/luanasosantos)
-
----
-
 > “Just keep swimming.” 🐠
